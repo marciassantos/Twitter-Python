@@ -1,1 +1,2 @@
-Hello Word 
+Hello Word. 
+Hoje e segunda feira
